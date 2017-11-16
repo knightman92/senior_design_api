@@ -1,0 +1,3 @@
+-time for chat: https://stackoverflow.com/questions/11090451/format-the-date-using-ruby-on-rails
+
+-Need to figure out what needs to be changed for 'user'
